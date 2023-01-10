@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eTransport xmlns="mfp:anaf:dgti:eTransport:declaratie:v1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="mfp:anaf:dgti:eTransport:declaratie:v1 file:/D:/formInteractive/_inLucru/_proiecte/eTransport/final/SchemaSimtic_model_2022_03_15.xsd"
+  codDeclarant="5228876">
+ <notificare codTipOperatiune="30">
+     <bunuriTransportate nrCrt="1" codTarifar="22011019" denumireMarfa="PPD.SAN PELLEGRINO GLASS 0.5L" codScopOperatiune="300101" cantitate="24.00"
+            codUnitateMasura="XBO" greutateNeta="12.00" greutateBruta="19.08" valoareLeiFaraTva="141.12"/>
+     <bunuriTransportate nrCrt="2" codTarifar="22011011" denumireMarfa="PPD.ACQUA PANNA  GLASS 0.75L" codScopOperatiune="300101" cantitate="150.00"
+            codUnitateMasura="XBO" greutateNeta="112.50" greutateBruta="180.30" valoareLeiFaraTva="1132.50"/>
+     <bunuriTransportate nrCrt="3" codTarifar="22011019" denumireMarfa="PPD.SAN PELLEGRINO GLASS 0.75L" codScopOperatiune="300101" cantitate="60.00"
+            codUnitateMasura="XBO" greutateNeta="45.00" greutateBruta="72.30" valoareLeiFaraTva="455.40"/>
+     <bunuriTransportate nrCrt="4" codTarifar="22087010" denumireMarfa="L.BEVELAND-LIMONCELLO-CASAL D EMILIA 0.7L  30%" codScopOperatiune="300101" cantitate="1.00"
+            codUnitateMasura="XBO" greutateNeta="0.70" greutateBruta="1.30" valoareLeiFaraTva="40.94"/>
+     <bunuriTransportate nrCrt="5" codTarifar="22042180" denumireMarfa="VM.ITALIA-TOSCANA-ORNELLAIA-LE VOLTE DELL  ORNELLAIA IGT ROSSO 0.75L" codScopOperatiune="300101" cantitate="6.00"
+            codUnitateMasura="XBO" greutateNeta="4.50" greutateBruta="7.86" valoareLeiFaraTva="479.70"/>
+     <bunuriTransportate nrCrt="6" codTarifar="22085011"denumireMarfa="A.HENDRICK S GIN 0.7L" codScopOperatiune="300101" cantitate="1.00"
+            codUnitateMasura="XBO" greutateNeta="0.70" greutateBruta="1.32" valoareLeiFaraTva="153.73"/>
+     <bunuriTransportate nrCrt="7" codTarifar="22042195" denumireMarfa="PURCARI TRAMINER DE PURCARI 0.75L" codScopOperatiune="300101" cantitate="6.00"
+            codUnitateMasura="XBO" greutateNeta="4.50" greutateBruta="10.80" valoareLeiFaraTva="215.28"/>
+  <partenerComercial codTara="RO" cod="3383687" denumire="NEMECO S.R.L.(7629)"/>
+<dateTransport nrVehicul="B182UHS" codTaraTransportator="RO" codTransportator="5228876" denumireTransportator="TARGET MEDIA INTERNATIONAL S.R.L." dataTransport="2023-01-09"  />
+ <locIncarcare codJudet="23" denumireLocalitate="STEFANESTII DE JOS" denumireStrada="SOSEAUA DE CENTURA NR.22"/>
+ <locDescarcare codJudet="40" denumireLocalitate="BUCURESTI" denumireStrada="STR.BANUL ANTONACHE NR.40-44"/>
+ <documenteTransport tipDocument="20" numarDocument="3463212" dataDocument="2023-01-09"/>
+</notificare>
+</eTransport>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eTransport xmlns="mfp:anaf:dgti:eTransport:declaratie:v1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="mfp:anaf:dgti:eTransport:declaratie:v1 file:/D:/formInteractive/_inLucru/_proiecte/eTransport/final/SchemaSimtic_model_2022_03_15.xsd"
+  codDeclarant="5228876">
+ <notificare codTipOperatiune="30">
+     <bunuriTransportate nrCrt="1" codTarifar="22041096" denumireMarfa="HALEWOOD RHEIN  EXTRA BRUT IMPERIAL 0.75L" codScopOperatiune="300101" cantitate="6.00"
+            codUnitateMasura="XBO" greutateNeta="4.50" greutateBruta="9.90" valoareLeiFaraTva="239.28"/>
+     <bunuriTransportate nrCrt="2" codTarifar="22042180" denumireMarfa="SERVE CUVEE SISSI 0.75L" codScopOperatiune="300101" cantitate="6.00"
+            codUnitateMasura="XBO" greutateNeta="4.50" greutateBruta="8.04" valoareLeiFaraTva="292.44"/>
+     <bunuriTransportate nrCrt="3" codTarifar="22042179" denumireMarfa="SERVE CUVEE PACS 0.75L" codScopOperatiune="300101" cantitate="6.00"
+            codUnitateMasura="XBO" greutateNeta="4.50" greutateBruta="7.98" valoareLeiFaraTva="292.44"/>
+  <partenerComercial codTara="RO" cod="44217533" denumire="THERAPYFOOD S.R.L.(10396)"/>
+<dateTransport nrVehicul="B24TMI" codTaraTransportator="RO" codTransportator="5228876" denumireTransportator="TARGET MEDIA INTERNATIONAL S.R.L." dataTransport="2023-01-09"  />
+ <locIncarcare codJudet="23" denumireLocalitate="STEFANESTII DE JOS" denumireStrada="SOSEAUA DE CENTURA NR.22"/>
+ <locDescarcare codJudet="40" denumireLocalitate="BUCURESTI" denumireStrada="STR FRANCEZA NR 2"/>
+ <documenteTransport tipDocument="20" numarDocument="3463244" dataDocument="2023-01-09"/>
+</notificare>
+</eTransport>

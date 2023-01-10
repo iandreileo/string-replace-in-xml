@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eTransport xmlns="mfp:anaf:dgti:eTransport:declaratie:v1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="mfp:anaf:dgti:eTransport:declaratie:v1 file:/D:/formInteractive/_inLucru/_proiecte/eTransport/final/SchemaSimtic_model_2022_03_15.xsd"
+  codDeclarant="5228876">
+ <notificare codTipOperatiune="30">
+     <bunuriTransportate nrCrt="1" codTarifar="21069098" denumireMarfa="MONIN PUREE PASSION FRUIT 1L" codScopOperatiune="300101" cantitate="3.00"
+            codUnitateMasura="XBO" greutateNeta="3.00" greutateBruta="4.35" valoareLeiFaraTva="219.00"/>
+     <bunuriTransportate nrCrt="2" codTarifar="22042282" denumireMarfa="VINARTE BIB 10L VIN DE MASA ROZE DEMISEC" codScopOperatiune="300101" cantitate="3.00"
+            codUnitateMasura="H87" greutateNeta="30.00" greutateBruta="30.60" valoareLeiFaraTva="226.89"/>
+     <bunuriTransportate nrCrt="3" codTarifar="22042180" denumireMarfa="NEGRINI PREMIUM CABERNET SAUVIGNON 0.75L" codScopOperatiune="300101" cantitate="6.00"
+            codUnitateMasura="XBO" greutateNeta="4.50" greutateBruta="8.10" valoareLeiFaraTva="180.00"/>
+     <bunuriTransportate nrCrt="4" codTarifar="22011011" denumireMarfa="PPD.ACQUA PANNA  GLASS 0.75L" codScopOperatiune="300101" cantitate="75.00"
+            codUnitateMasura="XBO" greutateNeta="56.25" greutateBruta="90.15" valoareLeiFaraTva="615.75"/>
+     <bunuriTransportate nrCrt="5" codTarifar="22011019" denumireMarfa="PPD.SAN PELLEGRINO GLASS 0.75L" codScopOperatiune="300101" cantitate="15.00"
+            codUnitateMasura="XBO" greutateNeta="11.25" greutateBruta="18.08" valoareLeiFaraTva="123.75"/>
+     <bunuriTransportate nrCrt="6" codTarifar="21069098" denumireMarfa="MONIN PUREE STRAWBERRY 1L" codScopOperatiune="300101" cantitate="3.00"
+            codUnitateMasura="XBO" greutateNeta="3.00" greutateBruta="4.35" valoareLeiFaraTva="219.00"/>
+     <bunuriTransportate nrCrt="7" codTarifar="21069059" denumireMarfa="MONIN SIROP MELON-PEPENE GALBEN 0.7L" codScopOperatiune="300101" cantitate="2.00"
+            codUnitateMasura="XBO" greutateNeta="1.40" greutateBruta="2.80" valoareLeiFaraTva="71.00"/>
+     <bunuriTransportate nrCrt="8" codTarifar="22041015" denumireMarfa="PPD.PROSECCO GRANDE VENTO DOC SPUMANTE 0.75L" codScopOperatiune="300101" cantitate="6.00"
+            codUnitateMasura="XBO" greutateNeta="4.50" greutateBruta="10.56" valoareLeiFaraTva="205.32"/>
+     <bunuriTransportate nrCrt="9" codTarifar="21069098" denumireMarfa="MONIN PUREE PINEAPPLE 1L" codScopOperatiune="300101" cantitate="2.00"
+            codUnitateMasura="XBO" greutateNeta="2.00" greutateBruta="2.90" valoareLeiFaraTva="146.00"/>
+     <bunuriTransportate nrCrt="10" codTarifar="22042184" denumireMarfa="LILIAC YOUNG LIGHT ROSE 0.75L" codScopOperatiune="300101" cantitate="6.00"
+            codUnitateMasura="XBO" greutateNeta="4.50" greutateBruta="7.26" valoareLeiFaraTva="168.00"/>
+     <bunuriTransportate nrCrt="11" codTarifar="22089048" denumireMarfa="BRAN PALINCA GUTUI 40% 2L" codScopOperatiune="300101" cantitate="1.00"
+            codUnitateMasura="XBO" greutateNeta="2.00" greutateBruta="2.90" valoareLeiFaraTva="344.50"/>
+     <bunuriTransportate nrCrt="12" codTarifar="22042195" denumireMarfa="PURCARI NOCTURNE PINOT GRIGIO 0.75L" codScopOperatiune="300101" cantitate="6.00"
+            codUnitateMasura="XBO" greutateNeta="4.50" greutateBruta="9.60" valoareLeiFaraTva="210.00"/>
+     <bunuriTransportate nrCrt="13" codTarifar="22042178" denumireMarfa="BUDUREASCA 101-102 ROSE 0.75L" codScopOperatiune="300101" cantitate="6.00"
+            codUnitateMasura="XBO" greutateNeta="4.50" greutateBruta="7.50" valoareLeiFaraTva="143.58"/>
+  <partenerComercial codTara="RO" cod="41579393" denumire="GREEN GARDEN PUB S.R.L.(9715)"/>
+<dateTransport nrVehicul="B182UHS" codTaraTransportator="RO"codTransportator="5228876" denumireTransportator="TARGET MEDIA INTERNATIONAL S.R.L." dataTransport="2023-01-09"  />
+ <locIncarcare codJudet="23" denumireLocalitate="STEFANESTII DE JOS" denumireStrada="SOSEAUA DE CENTURA NR.22"/>
+ <locDescarcare codJudet="40" denumireLocalitate="BUCURESTI" denumireStrada="STR. BRASOV"/>
+ <documenteTransport tipDocument="20" numarDocument="3463234" dataDocument="2023-01-09"/>
+</notificare>
+</eTransport>
